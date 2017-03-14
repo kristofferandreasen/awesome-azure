@@ -142,11 +142,14 @@ When you have learned all the fundamentals in Azure you can move on to the paid 
 ## Articles
 * [When do Azure Websites make sense?](http://www.hanselman.com/blog/PennyPinchingInTheCloudWhenDoAzureWebsitesMakeSense.aspx)
 * [Comparison of IaaS](http://www.exelanz.com/knowledge-center/compare-laas-providers/)
+* [Microsoft cloud gets Pentagon's top security rating](https://fcw.com/articles/2017/01/13/dod-azure-secure-cloud.aspx)
 * [Azure Site Recovery Best Practice: How to Deploy Mobility Service](https://azure.microsoft.com/da-dk/blog/azure-site-recovery-best-practice-how-to-deploy-mobility-service/)
 * [Microsoft Enterprise Services Tips to using SQL Data Warehouse effectively](https://azure.microsoft.com/da-dk/blog/microsoft-es-tips-for-sql-dw/)
 * [10 GitHub samples with Azure DocumentDB you shouldn’t miss!](https://azure.microsoft.com/da-dk/blog/10-github-samples-with-azure-documentdb-you-shouldn-t-miss/)
 * [Top cloud myths of 2016](https://azure.microsoft.com/da-dk/blog/top-cloud-myths-of-2016/)
 * [Microservices: An application revolution powered by the cloud](https://azure.microsoft.com/da-dk/blog/microservices-an-application-revolution-powered-by-the-cloud/)
+* [Microsoft Azure: A Growing Presence In The Cloud](http://seekingalpha.com/article/4053217-microsoft-azure-growing-presence-cloud)
+* [Azure vs AWS vs Google Cloud Market Share](https://www.skyhighnetworks.com/cloud-security-blog/microsoft-azure-closes-iaas-adoption-gap-with-amazon-aws/)
 
 ## Blogs
 * [The Official Azure Blog](https://azure.microsoft.com/da-dk/blog/)

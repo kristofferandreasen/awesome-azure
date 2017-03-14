@@ -14,21 +14,12 @@ Therefore it would make sense to choose a specific learning path in order to lea
 I would recommend everone getting started with Azure to take the [Azure Fundamentals](https://openedx.microsoft.com/courses/course-v1:Microsoft+AZURE214x+2016_T4/about) course. This course provides a great introduction to all the various services. After this course you will have a better understanding of the Azure Ecosystem and you can dive into the specific area you are going to be working within.
 
 ## Microsoft Azure Links
-Visit Microsoft's web page describing the services they provide in Azure.
-* [Microsoft Azure Homepage](https://azure.microsoft.com/en-us/)
-
-Create a free trial for 30 days. You will use your credit card for verification but you will not be charged for the products after the period ends.
-* [Microsoft Azure Free Trial](https://azure.microsoft.com/en-us/free/)
-
-Microsoft created a pricing calculator to help you understand the pricing. Because the platform contains so many products, it is hard to understand the pricing.
+* [Microsoft Azure Homepage](https://azure.microsoft.com/en-us/) - Visit Microsoft's web page describing the services they provide in Azure.
+* [Microsoft Azure Free Trial](https://azure.microsoft.com/en-us/free/) - Create a free trial for 30 days. You will use your credit card for verification but you will not be charged for the products after the period ends.
+* [Microsoft Azure Price Calculator](https://azure.microsoft.com/en-us/pricing/calculator/) - Microsoft created a pricing calculator to help you understand the pricing. Because the platform contains so many products, it is hard to understand the pricing.
 This tool will make it easier to understand the pricing of the different products.
-* [Microsoft Azure Price Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
-
-The documentation features various areas depending on what you are looking for.
-* [Microsoft Azure Documentation](https://docs.microsoft.com/en-us/azure/)
-
-This repo contains all the resource manager templates for Azure. It is very likely you can find the desired template here for your project.
-* [Azure Resource Manager Templates](https://github.com/Azure/azure-quickstart-templates)
+* [Microsoft Azure Documentation](https://docs.microsoft.com/en-us/azure/) - The documentation features various areas depending on what you are looking for.
+* [Azure Resource Manager Templates](https://github.com/Azure/azure-quickstart-templates) - This repo contains all the resource manager templates for Azure. It is very likely you can find the desired template here for your project.
 
 ## Free Courses
 

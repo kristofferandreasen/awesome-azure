@@ -24,7 +24,7 @@ This tool will make it easier to understand the pricing of the different product
 ## Free Courses
 
 ### OpenEdx Courses
-These are completely free and even provides a completion certificate if you pass the exam.
+These are completely free and even provides a completion certification if you pass the exam.
 * [Azure Fundamentals](https://openedx.microsoft.com/courses/course-v1:Microsoft+AZURE214x+2016_T4/about)
 * [Databases in Azure](https://openedx.microsoft.com/courses/course-v1:Microsoft+AZURE207x+2016_T4/about)
 * [DevOps on Azure PaaS](https://openedx.microsoft.com/courses/course-v1:Microsoft+DevOps200.1+2017_T1/about)
@@ -117,20 +117,36 @@ Generally, Microsoft's free courses provide an exceptional chance to get to know
 * [Azure Machine Learning - Prediction with Regression](https://www.youtube.com/watch?v=knFLC4CKajM)
 * [Deploying Dockerized Apps to the Azure Container Service](https://www.youtube.com/watch?v=-wjxpng6jYs)
 
-## Paid Certificates
+## Paid Certifications
 When you have learned all the fundamentals in Azure you can move on to the paid certificates.
 
-[MCSD: Azure Solutions Architect](https://www.microsoft.com/en-us/learning/mcsd-azure-architect-certification.aspx)
-* [Developing Microsoft Azure Solutions](https://www.microsoft.com/en-us/learning/course.aspx?cid=20532)
-* [Implementing Microsoft Azure Infrastructure Solutions](https://www.microsoft.com/en-us/learning/course.aspx?cid=20533)
-* [Architecting Microsoft Azure Solutions](https://www.microsoft.com/en-us/learning/course.aspx?cid=40442)
+* [All Microsoft Azure Certifications](https://www.microsoft.com/en-us/learning/browse-all-certifications.aspx?technology=Microsoft%20Azure)
 
 
-[MCSD: Cloud Platform Microsoft Certified Solutions Associate](https://www.microsoft.com/en-gb/learning/mcsa-cloud-platform-certification.aspx)
+#### Certification tracks
+* [MCSD: Azure Solutions Architect](https://www.microsoft.com/en-us/learning/mcsd-azure-architect-certification.aspx)
+* [MCSA: Cloud Platform Microsoft Certified Solutions Associate](https://www.microsoft.com/en-us/learning/mcsa-cloud-platform-certification.aspx)
+* [MCSA: Linux on Azure Microsoft Certified Solutions Associate](https://www.microsoft.com/en-us/learning/mcsa-linux-azure-certification.aspx)
+* [MTA: IT Infrastructure Microsoft Technology Associate](https://www.microsoft.com/en-us/learning/mta-it-infrastructure-certification.aspx)
+
+#### Certification Exams
+* [Cloud Fundamentals - Exam 98-369](https://www.microsoft.com/en-us/learning/exam-98-369.aspx)
+* [Developing Microsoft Azure Solutions - Exam 70-532](https://www.microsoft.com/en-us/learning/course.aspx?cid=20532)
+* [Implementing Microsoft Azure Infrastructure Solutions - Exam 70-533](https://www.microsoft.com/en-us/learning/course.aspx?cid=20533)
+* [Architecting Microsoft Azure Solutions - Exam 70-534](https://www.microsoft.com/en-us/learning/course.aspx?cid=40442)
+* [Designing and Implementing Cloud Data Platform Solutions - Exam 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx)
+* [Designing and Implementing Big Data Analytics Solutions - Exam 70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx)
+* [Monitoring and Operating a Private Cloud - Exam 70-246](https://www.microsoft.com/en-us/learning/exam-70-246.aspx)
+* [Configuring and Deploying a Private Cloud - Exam 70-247](https://www.microsoft.com/en-us/learning/exam-70-247.aspx)
 
 ## Articles
 * [When do Azure Websites make sense?](http://www.hanselman.com/blog/PennyPinchingInTheCloudWhenDoAzureWebsitesMakeSense.aspx)
 * [Comparison of IaaS](http://www.exelanz.com/knowledge-center/compare-laas-providers/)
+* [Azure Site Recovery Best Practice: How to Deploy Mobility Service](https://azure.microsoft.com/da-dk/blog/azure-site-recovery-best-practice-how-to-deploy-mobility-service/)
+* [Microsoft Enterprise Services Tips to using SQL Data Warehouse effectively](https://azure.microsoft.com/da-dk/blog/microsoft-es-tips-for-sql-dw/)
+* [10 GitHub samples with Azure DocumentDB you shouldn’t miss!](https://azure.microsoft.com/da-dk/blog/10-github-samples-with-azure-documentdb-you-shouldn-t-miss/)
+* [Top cloud myths of 2016](https://azure.microsoft.com/da-dk/blog/top-cloud-myths-of-2016/)
+* [Microservices: An application revolution powered by the cloud](https://azure.microsoft.com/da-dk/blog/microservices-an-application-revolution-powered-by-the-cloud/)
 
 ## Blogs
 * [The Official Azure Blog](https://azure.microsoft.com/da-dk/blog/)

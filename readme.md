@@ -57,7 +57,7 @@ Generally, Microsoft's free courses provide an exceptional chance to get to know
 ### Pluralsight
 * [Microsoft Azure - The Big Picture](https://www.pluralsight.com/courses/microsoft-azure-big-picture)
 * [Getting Started with Azure Machine Learning](https://www.pluralsight.com/courses/azure-machine-learning-getting-started)
-* [Introdction to Azure App Services](https://www.pluralsight.com/courses/introduction-azure-app-services)
+* [Introduction to Azure App Services](https://www.pluralsight.com/courses/introduction-azure-app-services)
 * [Building a Global App with Azure PaaS](https://www.pluralsight.com/courses/azure-paas-building-global-app)
 * [Architecting Azure Solutions (70-534): Infrastructure and Networking](https://www.pluralsight.com/courses/architecting-azure-solutions-70-534-infrastructure-networking)
 * [Azure Function Triggers - Quick Start](https://www.pluralsight.com/courses/azure-function-triggers-quick-start)

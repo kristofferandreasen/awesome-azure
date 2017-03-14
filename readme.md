@@ -6,7 +6,7 @@ This library provides resources to learn Azure and other Microsoft services. The
 
 The repo starts with a few resources to get started with Azure in general. Then it moves onto all the resources in their respective areas. The resources includes both courses, videos, articles, guides etc. Every area has their own folder to make it easier to dive straight into the area you want to know more about. These folders similarly contains all the Powershell commands in the area. I have included on Powershell file with all the commands, which you can find here:
 
-[Azure Powershell Commands](https://github.com/kristofferandreasen/AwesomeAzure/blob/master/azure-powershell.ps1)
+[Azure Powershell Commands](https://github.com/kristofferandreasen/awesome-azure/blob/master/azure-powershell.ps1)
 
 ## Getting Started
 Azure can be quite intimidating because of the vast amount of services and options.

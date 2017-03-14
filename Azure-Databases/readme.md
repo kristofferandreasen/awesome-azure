@@ -2,7 +2,7 @@
 This area constitutes all the resources for databases. It similarly includes the full list of Microsoft Documentation and links to the videos related to the subjects.
 I recommend starting with the OpenEdx courses below as they are free and provide certificates if you pass the exam.
 
-You can find relevant Powershell commands associated with databases here: [Azure-Databases-Powershell](https://github.com/kristofferandreasen/AwesomeAzure/blob/master/Azure-Databases/Azure-Databases-Powershell.ps1)
+You can find relevant Powershell commands associated with databases here: [Azure-Databases-Powershell](https://github.com/kristofferandreasen/awesome-azure/blob/master/azure-databases/azure-databases-powershell.ps1)
 
 ## OpenEdx Courses
 * [Azure Fundamentals](https://openedx.microsoft.com/courses/course-v1:Microsoft+AZURE214x+2016_T4/about)

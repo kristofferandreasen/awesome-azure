@@ -140,6 +140,10 @@ When you have learned all the fundamentals in Azure you can move on to the paid 
 
 ## Podcasts
 * [Azure Friday Podcast](https://itunes.apple.com/dk/podcast/azure-friday-hd-channel-9/id739501868?mt=2)
+* [Microsoft Cloud Cover Show](https://channel9.msdn.com/Shows/Cloud+Cover/)
+* [The Azure Podcast](http://azpodcast.azurewebsites.net/)
+* [Microsoft Cloud Show](http://www.microsoftcloudshow.com/)
+* [MS Dev Show](http://msdevshow.com/)
 
 ## Microsoft Documentation
 * [Documentation Main Page](https://docs.microsoft.com/en-us/azure/)

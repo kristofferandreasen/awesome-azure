@@ -49,6 +49,16 @@ These are completely free and even provides a completion certification if you pa
 * [Networking Fundamentals](https://mva.microsoft.com/en-US/training-courses/networking-fundamentals-8249?l=zcmNgKKy_1704984382)
 * [Getting Started with Microsoft PowerShell](https://mva.microsoft.com/en-US/training-courses/getting-started-with-microsoft-powershell-8276?l=r54IrOWy_2304984382)
 * [Cloud Development Courses](https://mva.microsoft.com/training-topics/cloud-app-development#!index=3&jobf=Developer&lang=1033)
+* [Data Science and Machine Learning Essentials](https://mva.microsoft.com/en-US/training-courses/data-science-and-machine-learning-essentials-14100)
+* [Hands-On with Azure Machine Learning](https://mva.microsoft.com/en-US/training-courses/handson-with-azure-machine-learning-16638)
+* [Design and Implement Big Data & Advanced Analytics Solutions](https://mva.microsoft.com/en-US/training-courses/design-and-implement-big-data-advanced-analytics-solutions-16531)
+* [Building Recommendation Systems in Azure](https://mva.microsoft.com/en-US/training-courses/building-recommendation-systems-in-azure-13765?l=j6AfbmlXB_4505513172)
+* [Microsoft Azure Machine Learning Jump Start](https://mva.microsoft.com/en-US/training-courses/microsoft-azure-machine-learning-jump-start-8425?l=ehQZFoKz_7904984382)
+* [Implementing Big Data Analysis](https://mva.microsoft.com/en-US/training-courses/implementing-big-data-analysis-8311?l=gOOGH0Yy_4304984382)
+* [Building Blocks: Big Data and Machine Learning](https://mva.microsoft.com/en-US/training-courses/building-blocks-big-data-and-machine-learning-16060)
+* [Transform Big Data into Intelligent Action with Advanced Analytics](https://mva.microsoft.com/en-US/training-courses/transform-big-data-into-intelligent-action-with-advanced-analytics-14040?l=MnUsH5CsB_7105368485)
+* [Big Data Analytics with HDInsight: Hadoop on Azure](https://mva.microsoft.com/en-US/training-courses/big-data-analytics-with-hdinsight-hadoop-on-azure-10551?l=KBcyOu97_7604984382)
+* [Orchestrating Data and Services with Azure Data Factory](https://mva.microsoft.com/en-US/training-courses/orchestrating-data-and-services-with-azure-data-factory-15962)
 
 
 ## Paid Courses
@@ -150,6 +160,7 @@ When you have learned all the fundamentals in Azure you can move on to the paid 
 * [Microservices: An application revolution powered by the cloud](https://azure.microsoft.com/da-dk/blog/microservices-an-application-revolution-powered-by-the-cloud/)
 * [Microsoft Azure: A Growing Presence In The Cloud](http://seekingalpha.com/article/4053217-microsoft-azure-growing-presence-cloud)
 * [Azure vs AWS vs Google Cloud Market Share](https://www.skyhighnetworks.com/cloud-security-blog/microsoft-azure-closes-iaas-adoption-gap-with-amazon-aws/)
+* [Why Azure ML is the Next Big Thing for Machine Learning?](http://www.kdnuggets.com/2014/11/microsoft-azure-machine-learning.html)
 
 ## Blogs
 * [The Official Azure Blog](https://azure.microsoft.com/da-dk/blog/)
@@ -184,6 +195,13 @@ Additional documentation from Microsoft will be included in the folders for the 
 * [Could Azure Machine Learning really disrupt the data science space by making predictive analytics ubiquitous?](https://www.quora.com/Could-Azure-Machine-Learning-really-disrupt-the-data-science-space-by-making-predictive-analytics-ubiquitous)
 * [What are the possible interview questions for Microsoft Azure Iaas/PaaS?](https://www.quora.com/What-are-the-possible-interview-questions-for-Microsoft-Azure-Iaas-PaaS/answer/Steffen-Krause)
 * [Is migrating to Microsoft Azure worth it for a small company (50 persons)?](https://www.quora.com/Is-migrating-to-Microsoft-Azure-worth-it-for-a-small-company-50-persons)
+
+## Top Stackoverflow Questions - Azure
+* [How do I copy SQL Azure database to my local development server?](http://stackoverflow.com/questions/5475306/how-do-i-copy-sql-azure-database-to-my-local-development-server)
+* [Difference between new and classic storage accounts in Azure](http://stackoverflow.com/questions/32619221/difference-between-new-and-classic-storage-accounts-in-azure)
+* [Azure Table Vs MongoDB on Azure](http://stackoverflow.com/questions/7989465/azure-table-vs-mongodb-on-azure)
+* [Azure Blob Storage vs. File Service](http://stackoverflow.com/questions/24880430/azure-blob-storage-vs-file-service)
+
 
 ## Books - Paid
 * [Microsoft Azure Security Infrastructure](https://blogs.msdn.microsoft.com/microsoft_press/2016/08/25/new-book-microsoft-azure-security-infrastructure/)

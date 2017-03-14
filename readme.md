@@ -2,11 +2,11 @@
 
 # Awesome Azure - A Curated List of Azure Resources
 
-This library provides resources to learn Azure and other Microsoft services. There is not one specific focus of the repository as Azure offers a large variety of services. The remaining files in the repo are Powershell files that allow you to perform actions on Azure. The main file All-Azure-Cmdlets.ps1 contains all the Powershell commands. In the Powershell-areas folder you will be able to find all the individual areas on Azure such as Machine Learning etc.
+This library provides resources to learn Azure and other Microsoft services. There is not one specific focus of the repository as Azure offers a large variety of services. The remaining files in the repo are Powershell files that allow you to perform actions on Azure. The main file azure-powershell.ps1 contains all the Powershell commands. In the Powershell-areas folder you will be able to find all the individual areas on Azure such as Machine Learning etc.
 
 The repo starts with a few resources to get started with Azure in general. Then it moves onto all the resources in their respective areas. The resources includes both courses, videos, articles, guides etc. Every area has their own folder to make it easier to dive straight into the area you want to know more about. These folders similarly contains all the Powershell commands in the area. I have included on Powershell file with all the commands, which you can find here:
 
-[Azure Powershell Commands](https://github.com/kristofferandreasen/AwesomeAzure/blob/master/Azure-Powershell.ps1)
+[Azure Powershell Commands](https://github.com/kristofferandreasen/AwesomeAzure/blob/master/azure-powershell.ps1)
 
 ## Getting Started
 Azure can be quite intimidating because of the vast amount of services and options.

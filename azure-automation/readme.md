@@ -42,8 +42,35 @@ You can find relevant Powershell commands associated with automation here: [azur
 * [Role-based access control in Azure Automation](https://docs.microsoft.com/en-us/azure/automation/automation-role-based-access-control)
 * [Introduction to authentication in Azure Automation](https://docs.microsoft.com/en-us/azure/automation/automation-security-overview)
 * [Authenticate Runbooks with Azure Service Management and Resource Manager](https://docs.microsoft.com/en-us/azure/automation/automation-sec-configure-azure-runas-account)
+* [Starting a runbook in Azure Automation](https://docs.microsoft.com/en-us/azure/automation/automation-starting-a-runbook)
+* [Starting an Azure Automation runbook with a webhook](https://docs.microsoft.com/en-us/azure/automation/automation-webhooks)
+* [Automate resources in your data center with Hybrid Runbook Worker](https://docs.microsoft.com/en-us/azure/automation/automation-hybrid-runbook-worker)
+* [Runbook input parameters](https://docs.microsoft.com/en-us/azure/automation/automation-runbook-input-parameters)
+* [Error handling in Azure Automation graphical runbooks](https://docs.microsoft.com/en-us/azure/automation/automation-runbook-graphical-error-handling)
+* [Runbook execution in Azure Automation](https://docs.microsoft.com/en-us/azure/automation/automation-runbook-execution)
+* [Runbook settings](https://docs.microsoft.com/en-us/azure/automation/automation-runbook-settings)
+* [Managing Azure Automation data](https://docs.microsoft.com/en-us/azure/automation/automation-managing-data)
+* [Calling an Azure Automation runbook from an OMS Log Analytics alert](https://docs.microsoft.com/en-us/azure/automation/automation-invoke-runbook-from-omsla-alert)
+* [Azure Automation DSC Overview](https://docs.microsoft.com/en-us/azure/automation/automation-dsc-overview)
+* [Getting started with Azure Automation DSC](https://docs.microsoft.com/en-us/azure/automation/automation-dsc-getting-started)
+* [Onboarding machines for management by Azure Automation DSC](https://docs.microsoft.com/en-us/azure/automation/automation-dsc-onboarding)
+* [Compiling configurations in Azure Automation DSC](https://docs.microsoft.com/en-us/azure/automation/automation-dsc-compile)
+* [Usage Example: Continuous deployment to Virtual Machines using Automation DSC and Chocolatey](https://docs.microsoft.com/en-us/azure/automation/automation-dsc-cd-chocolatey)
+* [Certificate assets in Azure Automation](https://docs.microsoft.com/en-us/azure/automation/automation-certificates)
+* [Connection assets in Azure Automation](https://docs.microsoft.com/en-us/azure/automation/automation-connections)
+* [Credential assets in Azure Automation](https://docs.microsoft.com/en-us/azure/automation/automation-credentials)
+* [Azure Automation Integration Modules](https://docs.microsoft.com/en-us/azure/automation/automation-integration-modules)
+* [Scheduling a runbook in Azure Automation](https://docs.microsoft.com/en-us/azure/automation/automation-schedules)
+* [Variable assets in Azure Automation](https://docs.microsoft.com/en-us/azure/automation/automation-variables)
+* [How to update Azure PowerShell modules in Azure Automation](https://docs.microsoft.com/en-us/azure/automation/automation-update-azure-modules)
+
+#### Runbook Gallery for Scripts
+* [Runbook Gallery](https://gallery.technet.microsoft.com/scriptcenter/site/search?f[0].Type=RootCategory&f[0].Value=WindowsAzure&f[1].Type=SubCategory&f[1].Value=WindowsAzure_automation&f[1].Text=Automation)
 
 ## Microsoft Videos
+* [All automation videos](https://azure.microsoft.com/en-us/resources/videos/index/?services=automation)
+
+#### Individual Videos
 * [Learn the Ins and Outs of Azure Automation, PowerShell and Desired State Configuration](https://azure.microsoft.com/en-us/resources/videos/azure-automation-powershell-and-desired-state-configuration/)
 * [Operations Management Suite Automation DSC](https://azure.microsoft.com/en-us/resources/videos/operations-management-suite-automation-dsc/)
 * [Get started with Azure Automation](https://azure.microsoft.com/en-us/resources/videos/get-started-with-azure-automation/)

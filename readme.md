@@ -112,6 +112,23 @@ Generally, Microsoft's free courses provide an exceptional chance to get to know
 * [The Business Value and TCO Advantage of Apache Hadoop in the Cloud with Microsoft Azure HDInsight](https://azure.microsoft.com/en-us/resources/business-value-and-tco-advantage-hadoop-with-hdinsight/)
 * [Cloud Driving Next Generation IT Skills](https://www.microsoft.com/itprocareercenter/Content/IDC/WhitePapers/IDC%20Report%20-%20Cloud%20Driving%20Big%20Changes%20-%20ENG.pdf)
 
+## PowerShell
+Find all the PowerShell modules you need. In order to get started with PowerShell, consider visiting this page: [Get started with Azure PowerShell cmdlets](https://docs.microsoft.com/en-us/powershell/azureps-cmdlets-docs/).
+* [PowerShell Gallery](https://www.powershellgallery.com/profiles/azure-sdk/)
+
+#### Popular PowerShell Modules
+* [AzureRM.profile](https://www.powershellgallery.com/packages/AzureRM.profile/2.7.0)
+* [Azure.Storage](https://www.powershellgallery.com/packages/Azure.Storage/2.7.0)
+* [AzureRM.ApiManagement](https://www.powershellgallery.com/packages/AzureRM.ApiManagement/3.5.0)
+* [AzureRM.Compute](https://www.powershellgallery.com/packages/AzureRM.Compute/2.8.0)
+* [AzureRM.Cdn](https://www.powershellgallery.com/packages/AzureRM.Cdn/2.7.0)
+* [AzureRM.DataLakeStore](https://www.powershellgallery.com/packages/AzureRM.DataLakeStore/3.5.0)
+* [AzureRM.HDInsight](https://www.powershellgallery.com/packages/AzureRM.HDInsight/2.7.0)
+* [AzureRM.KeyVault](https://www.powershellgallery.com/packages/AzureRM.KeyVault/2.7.0)
+* [AzureRM.OperationalInsights](https://www.powershellgallery.com/packages/AzureRM.OperationalInsights/2.7.0)
+* [AzureRM.RedisCache](https://www.powershellgallery.com/packages/AzureRM.RedisCache/2.7.0)
+* [AzureRM.Resources](https://www.powershellgallery.com/packages/AzureRM.Resources/3.7.0)
+
 ## YouTube Videos
 * [Microsoft Cloud Platform - Azure](https://www.youtube.com/playlist?list=PL8nfc9haGeb40GxCNHQ3Uv-qyl_-iLiOU)
 * [Microsoft Azure Channel](https://www.youtube.com/user/windowsazure)

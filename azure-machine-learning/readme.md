@@ -2,7 +2,7 @@
 
 This area constitutes all the resources for machine learning with Azure. It similarly includes the full list of Microsoft Documentation and links to the videos related to the subjects.
 
-You can find relevant Powershell commands associated with databases here: [Azure-Databases-Powershell](https://github.com/kristofferandreasen/awesome-azure/blob/master/azure-machine-learning/azure-machine-learning-powershell.ps1)
+You can find relevant Powershell commands associated with machine learning here: [azure-machine-learning-powershell](https://github.com/kristofferandreasen/awesome-azure/blob/master/azure-machine-learning/azure-machine-learning-powershell.ps1)
 
 ## Microsoft Virtual Academy
 * [Data Science and Machine Learning Essentials](https://mva.microsoft.com/en-US/training-courses/data-science-and-machine-learning-essentials-14100)
@@ -74,5 +74,3 @@ You can find relevant Powershell commands associated with databases here: [Azure
 ## Articles
 * [Why Azure ML is the Next Big Thing for Machine Learning?](http://www.kdnuggets.com/2014/11/microsoft-azure-machine-learning.html)
 * [Could Azure Machine Learning really disrupt the data science space by making predictive analytics ubiquitous?](https://www.quora.com/Could-Azure-Machine-Learning-really-disrupt-the-data-science-space-by-making-predictive-analytics-ubiquitous)
-
-## Books - Paid

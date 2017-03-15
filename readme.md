@@ -221,7 +221,7 @@ Additional documentation from Microsoft will be included in the folders for the 
 * [SQL on Azure Succinctly](https://www.amazon.com/SQL-Azure-Succinctly-Parikshit-Savjani/dp/1542827140/ref=sr_1_21?ie=UTF8&qid=1489421305&sr=8-21&keywords=azure)
 * [Windows Azure SQL Database Step by Step](https://www.amazon.com/Windows-Azure-Database-Step-Developer-ebook/dp/B00L92061G/ref=sr_1_26?ie=UTF8&qid=1489421305&sr=8-26&keywords=azure)
 * [Mastering Azure Analytics: Architecting in the Cloud with Azure Data Lake, HDInsight, and Spark](https://www.amazon.com/Mastering-Azure-Analytics-Architecting-HDInsight/dp/1491956658/ref=sr_1_30?ie=UTF8&qid=1489421472&sr=8-30&keywords=azure)
-* [odern Authentication with Azure Active Directory for Web Applications](https://www.amazon.com/Authentication-Directory-Applications-Developer-Reference/dp/0735696942/ref=sr_1_28?ie=UTF8&qid=1489421472&sr=8-28&keywords=azure)
+* [Modern Authentication with Azure Active Directory for Web Applications](https://www.amazon.com/Authentication-Directory-Applications-Developer-Reference/dp/0735696942/ref=sr_1_28?ie=UTF8&qid=1489421472&sr=8-28&keywords=azure)
 * [DevOps with Microsoft Azure and Visual Studio Team Services](https://www.amazon.com/DevOps-Microsoft-Visual-Studio-Services-ebook/dp/B01MSQWO4W/ref=sr_1_45?ie=UTF8&qid=1489421540&sr=8-45&keywords=azure)
 
 ## Communities

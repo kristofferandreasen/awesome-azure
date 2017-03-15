@@ -100,6 +100,7 @@ Generally, Microsoft's free courses provide an exceptional chance to get to know
 * [All Azure Courses](https://www.opsgility.com/courses/all/microsoft_azure)
 
 ## Guides - Free
+These guides/ebooks are completely free and will provide a good starting point.
 * [Understanding Azure - A Guide for Developers](https://azure.microsoft.com/en-us/campaigns/developer-guide/)
 * [Data Science in the Cloud with Microsoft Azure Machine Learning and R](https://azureinfo.microsoft.com/CO-Azure-CNTNT-FY15-02Feb-Data-Science-in-the-Cloud.html)
 * [Microsoft Azure Essentials: Fundamentals of Azure, 2nd Edition](https://blogs.msdn.microsoft.com/microsoft_press/2016/09/01/free-ebook-microsoft-azure-essentials-fundamentals-of-azure-second-edition/)

@@ -42,6 +42,8 @@ These are completely free and even provides a completion certification if you pa
 * [Microsoft Azure Virtual Machines](https://openedx.microsoft.com/courses/course-v1:Microsoft+AZURE202x+2016_T1/about)
 
 ### Microsoft Virtual Academy
+This is just a small list of the avaialble videos on MVA. The various subject directories includes the full list of videos available related to the subject.
+
 * [Microsoft Azure Fundamentals](https://mva.microsoft.com/en-US/training-courses/microsoft-azure-fundamentals-8391?l=BfBcAzIz_504984382)
 * [Cloud Application Development](https://mva.microsoft.com/en-US/training-courses/cloud-application-development-17172?l=ZTStIacZD_6511316548)
 * [SQL Database Fundamentals](https://mva.microsoft.com/en-US/training-courses/sql-database-fundamentals-16944?l=w7qq6nAID_6805121157)

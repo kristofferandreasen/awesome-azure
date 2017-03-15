@@ -198,12 +198,16 @@ Additional documentation from Microsoft will be included in the folders for the 
 * [What are the possible interview questions for Microsoft Azure Iaas/PaaS?](https://www.quora.com/What-are-the-possible-interview-questions-for-Microsoft-Azure-Iaas-PaaS/answer/Steffen-Krause)
 * [Is migrating to Microsoft Azure worth it for a small company (50 persons)?](https://www.quora.com/Is-migrating-to-Microsoft-Azure-worth-it-for-a-small-company-50-persons)
 
-## Top Stackoverflow Questions - Azure
+## Stackoverflow Questions - Azure
+
+#### New Questions - Azure
+* [New Questions](http://stackoverflow.com/questions/tagged/azure?sort=newest&pageSize=15)
+
+#### Top Questions
 * [How do I copy SQL Azure database to my local development server?](http://stackoverflow.com/questions/5475306/how-do-i-copy-sql-azure-database-to-my-local-development-server)
 * [Difference between new and classic storage accounts in Azure](http://stackoverflow.com/questions/32619221/difference-between-new-and-classic-storage-accounts-in-azure)
 * [Azure Table Vs MongoDB on Azure](http://stackoverflow.com/questions/7989465/azure-table-vs-mongodb-on-azure)
 * [Azure Blob Storage vs. File Service](http://stackoverflow.com/questions/24880430/azure-blob-storage-vs-file-service)
-
 
 ## Books - Paid
 * [Microsoft Azure Security Infrastructure](https://blogs.msdn.microsoft.com/microsoft_press/2016/08/25/new-book-microsoft-azure-security-infrastructure/)

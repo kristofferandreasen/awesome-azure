@@ -6,14 +6,12 @@ Ensure your pull request adheres to the following guidelines:
 * Remember to include your submission in the readme of the specific area it relates to (Databases, Machine Learning etc.)
 * If you submit a project that is similar to an existing project in the list, argument how it's better.
 * Search previous suggestions before making a new one, as yours may be a duplicate.
-* Suggested packages should be tested and documented.
 * Make an individual pull request for each suggestion.
 * Additions should be added to the bottom of the relevant category.
 * Keep descriptions short and simple, but descriptive.
 * Start the description with a capital and end with a full stop/period.
 * Don't start the description with A or An.
 * Check your spelling and grammar.
-* Make sure your text editor is set to remove trailing whitespace.
 * The pull request should have a useful title.
 * New categories or improvements to the existing categorization are welcome, but should be done in a separate pull request.
 

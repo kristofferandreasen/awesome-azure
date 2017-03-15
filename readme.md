@@ -257,6 +257,10 @@ Additional documentation from Microsoft will be included in the folders for the 
 * [Azure Events - Find Events in your Area](https://azure.microsoft.com/en-us/community/events/)
 * [Azure Newsletter](https://azure.microsoft.com/en-us/community/newsletter/)
 
+## BizSpark
+Microsoft offers a programme that allow startups to get up to $120k of free Azure cloud credits. You can read more here:
+* [BizSpark](https://bizspark.microsoft.com/)
+
 ## Cheat Sheets
 * [Azure Machine Learning Cheat Sheet](https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-algorithm-cheat-sheet)
 

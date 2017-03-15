@@ -11,9 +11,11 @@ You can find relevant Powershell commands associated with getting started here: 
 
 ## Microsoft Virtual Academy
 * [Microsoft Azure Fundamentals](https://mva.microsoft.com/en-US/training-courses/microsoft-azure-fundamentals-8391?l=BfBcAzIz_504984382)
+* [Networking Fundamentals](https://mva.microsoft.com/en-US/training-courses/networking-fundamentals-8249?l=zcmNgKKy_1704984382)
+* [Getting Started with Microsoft PowerShell](https://mva.microsoft.com/en-US/training-courses/getting-started-with-microsoft-powershell-8276?l=r54IrOWy_2304984382)
 
 ## Pluralsight
-* [Introduction to Azure DocumentDB](https://www.pluralsight.com/courses/azure-documentdb-introduction)
+* [Microsoft Azure - The Big Picture](https://www.pluralsight.com/courses/microsoft-azure-big-picture)
 * [Introduction to Azure App Services](https://www.pluralsight.com/courses/introduction-azure-app-services)
 * [Connecting PowerShell to Your Azure Subscription](https://www.pluralsight.com/courses/connect-powershell-to-azure-subscription)
 

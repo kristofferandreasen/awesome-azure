@@ -28,7 +28,7 @@ You can find relevant Powershell commands associated with databases here: [azure
 * [Use Relational Database as a Service](https://mva.microsoft.com/en-US/training-courses/use-relational-database-as-a-service-14041?l=y3I0GCvmB_9200115881)
 * [Platform for Hybrid Cloud with SQL Server 2014 Jump Start](https://mva.microsoft.com/en-US/training-courses/platform-for-hybrid-cloud-with-sql-server-2014-jump-start-8256?l=mHFOkXKy_504984382)
 * [Open Source Database on Microsoft Azure](https://mva.microsoft.com/en-US/training-courses/open-source-database-on-microsoft-azure-8479?l=vd7YOkXz_4604984382)
-* [https://mva.microsoft.com/en-US/training-courses/modernizing-your-datacenter-jump-start-8410?l=V5ihYyJz_3804984382](https://mva.microsoft.com/en-US/training-courses/modernizing-your-datacenter-jump-start-8410?l=V5ihYyJz_3804984382)
+* [Modernizing Your Datacenter Jump Start](https://mva.microsoft.com/en-US/training-courses/modernizing-your-datacenter-jump-start-8410?l=V5ihYyJz_3804984382)
 
 ## YouTube Videos
 * [What is SQL Azure?](https://www.youtube.com/watch?v=mPplWvvrVnU)

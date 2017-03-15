@@ -44,7 +44,28 @@ You can find relevant Powershell commands associated with automation here: [azur
 * [Authenticate Runbooks with Azure Service Management and Resource Manager](https://docs.microsoft.com/en-us/azure/automation/automation-sec-configure-azure-runas-account)
 
 ## Microsoft Videos
-
+* [Learn the Ins and Outs of Azure Automation, PowerShell and Desired State Configuration](https://azure.microsoft.com/en-us/resources/videos/azure-automation-powershell-and-desired-state-configuration/)
+* [Operations Management Suite Automation DSC](https://azure.microsoft.com/en-us/resources/videos/operations-management-suite-automation-dsc/)
+* [Get started with Azure Automation](https://azure.microsoft.com/en-us/resources/videos/get-started-with-azure-automation/)
+* [Azure Automation 102 with PowerShell and Chris Sanders](https://azure.microsoft.com/en-us/resources/videos/azure-automation-102-with-powershell-and-chris-sanders/)
+* [Treating the Azure CLI as a Docker Container to speed development](https://azure.microsoft.com/en-us/resources/videos/treating-the-azure-cli-as-a-docker-containers-to-speed-development/)
+* [Getting Started with Operations Management Suite Automation](https://azure.microsoft.com/en-us/resources/videos/getting-started-with-operations-management-suite-automation/)
+* [Building Operations Management Suite Automation Runbooks with PowerShell](https://azure.microsoft.com/en-us/resources/videos/building-operations-management-suite-automation-runbooks-with-powershell/)
+* [Azure Automation 104 managing Linux and creating Modules with Joe Levy](https://azure.microsoft.com/en-us/resources/videos/azure-automation-104-managing-linux-and-creating-modules-with-joe-levy/)
+* [Creating Operations Management Suite Automation Graphical Runbooks](https://azure.microsoft.com/en-us/resources/videos/creating-operations-management-suite-automation-graphical-runbooks/)
+* [Datacenter Integration Using Automation in Microsoft System Center Orchestrator](https://azure.microsoft.com/en-us/resources/videos/microsoft-ignite-2015-datacenter-integration-using-automation-in-microsoft-system-center-orchestrator/)
+* [Unified management across Linux and Windows Server with OMS and PowerShell](https://azure.microsoft.com/en-us/resources/videos/unified-management-across-linux-and-windows-server-with-oms-and-powershell/)
+* [Understanding Operations Management Suite Automation](https://azure.microsoft.com/en-us/resources/videos/understanding-operations-management-suite-automation/)
+* [Invoking Operations Management Suite Automation Runbooks](https://azure.microsoft.com/en-us/resources/videos/invoking-operations-management-suite-automation-runbooks/)
+* [Automate everywhere with the new Azure Automation in OMS – with special guest Jeffrey Snove](https://azure.microsoft.com/en-us/resources/videos/automate-everywhere-with-the-new-azure-automation-in-oms-with-special-guest-jeffrey-snover/)
+* [Utilizing the Automation Gallery for Operations Management Suite Automation Runbooks](https://azure.microsoft.com/en-us/resources/videos/utilizing-the-automation-gallery-for-operations-management-suite-automation-runbooks/)
+* [Automation Overview and Roadmap for Windows Server and System Center](https://azure.microsoft.com/en-us/resources/videos/microsoft-ignite-2015-automation-overview-and-roadmap-for-windows-server-and-system-center/)
+* [Automating Operational and Management Tasks Using Azure Automation](https://azure.microsoft.com/en-us/resources/videos/microsoft-ignite-2015-automating-operational-and-management-tasks-using-azure-automation/)
+* [Hybrid Cloud Automation with Operations Management Suite Automation](https://azure.microsoft.com/en-us/resources/videos/hybrid-cloud-automation-with-operations-management-suite-automation/)
+* [Unified update management across Windows, Linux and hybrid environments](https://azure.microsoft.com/en-us/resources/videos/unified-update-management-across-windows-linux-and-hybrid-environments/)
+* [Migrating Runbooks from System Center Orchestrator to Operations Management Suite Automation](https://azure.microsoft.com/en-us/resources/videos/migrating-runbooks-from-system-center-orchestrator-to-operations-management-suite-automation/)
+* [Azure Automation 103 advanced runbook mangement and certificates with Beth Cooper](https://azure.microsoft.com/en-us/resources/videos/azure-automation-103-advanced-runbook-mangement-and-certificates-with-beth-cooper/)
+* [Automation Everywhere with New SDKs, Tools, and Services in Azure](https://azure.microsoft.com/en-us/resources/videos/automation-everywhere-with-new-sdks-tools-and-services/)
 
 ## Books - Paid
 * [Automating Microsoft Azure Infrastructure Services: From the Data Center to the Cloud with PowerShell](https://www.amazon.com/Automating-Microsoft-Azure-Infrastructure-Services/dp/1491944897/ref=sr_1_19?ie=UTF8&qid=1489421305&sr=8-19&keywords=azure)

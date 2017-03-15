@@ -16,6 +16,9 @@ You can find relevant Powershell commands associated with databases here: [azure
 * [Azure SQL Data Warehouse: First Look](https://www.pluralsight.com/courses/azure-sql-data-warehouse-first-look)
 
 ## Microsoft Documentation
+* [SQL Database Docs PDF](https://opbuildstorageprod.blob.core.windows.net/output-pdf-files/en-us/Azure.azure-documents/live/sql-database.pdf)
+
+#### Individual Resources
 * [SQL Database](https://docs.microsoft.com/en-us/azure/sql-database/)
 * [SQL Data Warehouse](https://docs.microsoft.com/en-us/azure/sql-data-warehouse/)
 * [SQL Server Stretch Database](https://docs.microsoft.com/en-us/azure/sql-server-stretch-database/)

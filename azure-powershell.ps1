@@ -68,7 +68,7 @@ New-AzureRmResourceGroup -Name ExampleResourceGroup -Location "West US"
 New-AzureRmResourceGroupDeployment -Name ExampleDeployment -ResourceGroupName ExampleResourceGroup -TemplateFile c:\MyTemplates\example.json -TemplateParameterFile c:\MyTemplates\example.params.json
 
 # -------------------------------------------------------------------------------------- #
-# ------------------------------ Automation Variables ---------------------------------- #
+# -------------------------------------- Account --------------------------------------- #
 # -------------------------------------------------------------------------------------- #
 
 $subscr="<subscription name>"

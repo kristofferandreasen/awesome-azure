@@ -113,10 +113,11 @@ Generally, Microsoft's free courses provide an exceptional chance to get to know
 * [Cloud Driving Next Generation IT Skills](https://www.microsoft.com/itprocareercenter/Content/IDC/WhitePapers/IDC%20Report%20-%20Cloud%20Driving%20Big%20Changes%20-%20ENG.pdf)
 
 ## PowerShell
-Find all the PowerShell modules you need. In order to get started with PowerShell, consider visiting this page: [Get started with Azure PowerShell cmdlets](https://docs.microsoft.com/en-us/powershell/azureps-cmdlets-docs/).
+Find all the PowerShell modules you need. In order to get started with PowerShell, consider visiting this page: [Get started with Azure PowerShell cmdlets](https://docs.microsoft.com/en-us/powershell/azureps-cmdlets-docs/). The gallery below provides the full list of modules.
 * [PowerShell Gallery](https://www.powershellgallery.com/profiles/azure-sdk/)
 
 #### Popular PowerShell Modules
+These are a selection of some of the more popular PowerShell modules.
 * [AzureRM.profile](https://www.powershellgallery.com/packages/AzureRM.profile/2.7.0)
 * [Azure.Storage](https://www.powershellgallery.com/packages/Azure.Storage/2.7.0)
 * [AzureRM.ApiManagement](https://www.powershellgallery.com/packages/AzureRM.ApiManagement/3.5.0)

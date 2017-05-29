@@ -11,7 +11,7 @@ The repo starts with a few resources to get started with Azure in general. Then 
 ## Getting Started
 Azure can be quite intimidating because of the vast amount of services and options.
 Therefore it would make sense to choose a specific learning path in order to learn how Azure can be used within the area you work in.
-I would recommend everone getting started with Azure to take the [Azure Fundamentals](https://openedx.microsoft.com/courses/course-v1:Microsoft+AZURE214x+2016_T4/about) course. This course provides a great introduction to all the various services. After this course you will have a better understanding of the Azure Ecosystem and you can dive into the specific area you are going to be working within.
+I would recommend everone getting started with Azure to take the [Azure Fundamentals](https://openedx.microsoft.com/) course. This course provides a great introduction to all the various services. After this course you will have a better understanding of the Azure Ecosystem and you can dive into the specific area you are going to be working within.
 
 ## Microsoft Azure Links
 * [Microsoft Azure Homepage](https://azure.microsoft.com/en-us/) - Visit Microsoft's web page describing the services they provide in Azure.
@@ -25,21 +25,39 @@ This tool will make it easier to understand the pricing of the different product
 
 ### OpenEdx Courses
 These are completely free and even provides a completion certification if you pass the exam.
-* [Azure Fundamentals](https://openedx.microsoft.com/courses/course-v1:Microsoft+AZURE214x+2016_T4/about)
-* [Databases in Azure](https://openedx.microsoft.com/courses/course-v1:Microsoft+AZURE207x+2016_T4/about)
-* [DevOps on Azure PaaS](https://openedx.microsoft.com/courses/course-v1:Microsoft+DevOps200.1+2017_T1/about)
-* [DevOps Testing](https://openedx.microsoft.com/courses/course-v1:Microsoft+DEVOPS200.5+2017_T1/about)
-* [Azure Security and Compliance](https://openedx.microsoft.com/courses/course-v1:Microsoft+AZURE208x+2016_T4/about)
-* [Continuous Integration and Continuous Deployment](https://openedx.microsoft.com/courses/course-v1:Microsoft+DevOps200.3+2017_T1/about)
-* [Azure Application Deployment and Management](https://openedx.microsoft.com/courses/course-v1:Microsoft+AZURE211x+2016_T4/about)
-* [Microsoft Azure App Service](https://openedx.microsoft.com/courses/course-v1:Microsoft+AZURE206x+2016_T4/about)
-* [Automating Azure Workloads](https://openedx.microsoft.com/courses/course-v1:Microsoft+AZURE210x+2016_T4/about)
-* [Managing Azure Workloads](https://openedx.microsoft.com/courses/course-v1:Microsoft+Azure209x+2016_T4/about)
-* [Microsoft Azure for AWS Experts](https://openedx.microsoft.com/courses/course-v1:Microsoft+Azure213x+2016_T4/about)
-* [Microsoft Azure Storage](https://openedx.microsoft.com/courses/course-v1:Microsoft+AZURE205x+2016_T4/about)
-* [Microsoft Azure Identity](https://openedx.microsoft.com/courses/course-v1:Microsoft+AZURE204x+2016_T4/about)
-* [Microsoft Azure Virtual Networks](https://openedx.microsoft.com/courses/course-v1:Microsoft+AZURE203x+2016_T4/about)
-* [Microsoft Azure Virtual Machines](https://openedx.microsoft.com/courses/course-v1:Microsoft+AZURE202x+2016_T1/about)
+Because the courses frequently change, I have only created a link to the course collection.
+You can find the individual courses on this page.
+* [All Courses](https://openedx.microsoft.com/)
+* Azure Fundamentals
+* Databases in Azure
+* DevOps Testing
+* Azure Security and Compliance
+* Continuous Integration and Continuous Deployment
+* Azure Application Deployment and Management
+* Microsoft Azure App Service
+* Automating Azure Workloads
+* Managing Azure Workloads
+* Microsoft Azure for AWS Experts
+* Microsoft Azure Storage
+* Microsoft Azure Identity
+* Microsoft Azure Virtual Networks
+* Microsoft Azure Virtual Machines
+* Architecting Microsoft Azure Solutions
+* Securing Data in Azure SQL Server
+* Developing Microsoft Azure Solutions
+* Provisioning SQL Server and Azure SQL Databases
+* Introduction to DevOps Practices
+* Developing NoSQL Solutions in Azure
+* Processing Big Data with Azure Data Lake Analytics
+* Processing Real-Time Data Streams in Azure
+* Orchestrating Big Data with Azure Data Factory
+* Delivering a Data Warehouse in the Cloud
+* Implementing Predictive Analytics with Spark in Azure HDInsight
+* Implementing Real-Time Analytics with Hadoop in Azure HDInsight
+* Processing Big Data with Hadoop in Azure HDInsight
+* Application Monitoring and Feedback Loops
+* Infrastructure as Code
+* Migrating Workloads to Azure
 
 ### Microsoft Virtual Academy
 This is just a small list of the avaialble videos on MVA. The various subject directories includes the full list of videos available related to the subject.

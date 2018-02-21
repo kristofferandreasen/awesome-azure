@@ -21,6 +21,10 @@ This tool will make it easier to understand the pricing of the different product
 * [Microsoft Azure Documentation](https://docs.microsoft.com/en-us/azure/) - The documentation features various areas depending on what you are looking for.
 * [Azure Resource Manager Templates](https://github.com/Azure/azure-quickstart-templates) - This repo contains all the resource manager templates for Azure. It is very likely you can find the desired template here for your project.
 
+## Pricing
+
+* [azureprice.net](http://azureprice.net/) - Find and compare Azure Virtual machines specs and pricing on a one page.
+
 ## Free Courses
 
 ### OpenEdx Courses

@@ -13,9 +13,10 @@ Azure can be quite intimidating because of the vast amount of services and optio
 Therefore it would make sense to choose a specific learning path in order to learn how Azure can be used within the area you work in.
 I would recommend everone getting started with Azure to take the [Azure Fundamentals](https://openedx.microsoft.com/) course. This course provides a great introduction to all the various services. After this course you will have a better understanding of the Azure Ecosystem and you can dive into the specific area you are going to be working within.
 
-## Storage
+## Developer Tools
 
 * [Azure Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/) - Desktop client to easily manage Storage anywhere from Windows, MacOS, and Linux
+* [Azure Resource Explorer](https://resources.azure.com/) - Allows you to view and edit Azure resource definitions directly from their JSON manfinests; effectively bypassing the API.
 
 ## Microsoft Azure Links
 * [Microsoft Azure Homepage](https://azure.microsoft.com/en-us/) - Visit Microsoft's web page describing the services they provide in Azure.

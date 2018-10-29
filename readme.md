@@ -88,6 +88,8 @@ This is just a small list of the avaialble videos on MVA. The various subject di
 * [Big Data Analytics with HDInsight: Hadoop on Azure](https://mva.microsoft.com/en-US/training-courses/big-data-analytics-with-hdinsight-hadoop-on-azure-10551?l=KBcyOu97_7604984382)
 * [Orchestrating Data and Services with Azure Data Factory](https://mva.microsoft.com/en-US/training-courses/orchestrating-data-and-services-with-azure-data-factory-15962)
 
+### Microsoft Learn
+[Azure Topics](https://docs.microsoft.com/learn/azure/)
 
 ## Paid Courses
 Generally, Microsoft's free courses provide an exceptional chance to get to know the various concepts in Azure. However, if you want to move beyond some of the basic and get more hands-on experience, these courses can help you. They are also good training for acquiring certificates.

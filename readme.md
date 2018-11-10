@@ -191,9 +191,9 @@ When you have learned all the fundamentals in Azure you can move on to the paid 
 
 #### Certification Exams
 * [Cloud Fundamentals - Exam 98-369](https://www.microsoft.com/en-us/learning/exam-98-369.aspx)
-* [Developing Microsoft Azure Solutions - Exam 70-532](https://www.microsoft.com/en-us/learning/course.aspx?cid=20532)
-* [Implementing Microsoft Azure Infrastructure Solutions - Exam 70-533](https://www.microsoft.com/en-us/learning/course.aspx?cid=20533)
-* [Architecting Microsoft Azure Solutions - Exam 70-534](https://www.microsoft.com/en-us/learning/course.aspx?cid=40442)
+* [Microsoft Certified Azure Developer (Replaced Exam 70-532)](https://www.microsoft.com/en-us/learning/azure-developer.aspx)
+* [Microsoft Certified Azure Administrator (Replaced Exam 70-533)](https://www.microsoft.com/en-us/learning/course.aspx?cid=20533)
+* [Microsoft Certified Azure Solutions Architect (Replaced Exam 70-534)](https://www.microsoft.com/en-us/learning/course.aspx?cid=40442)
 * [Designing and Implementing Cloud Data Platform Solutions - Exam 70-473](https://www.microsoft.com/en-us/learning/exam-70-473.aspx)
 * [Designing and Implementing Big Data Analytics Solutions - Exam 70-475](https://www.microsoft.com/en-us/learning/exam-70-475.aspx)
 * [Monitoring and Operating a Private Cloud - Exam 70-246](https://www.microsoft.com/en-us/learning/exam-70-246.aspx)

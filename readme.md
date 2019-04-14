@@ -25,6 +25,7 @@ I would recommend everone getting started with Azure to take the [Azure Fundamen
 This tool will make it easier to understand the pricing of the different products.
 * [Microsoft Azure Documentation](https://docs.microsoft.com/en-us/azure/) - The documentation features various areas depending on what you are looking for.
 * [Azure Resource Manager Templates](https://github.com/Azure/azure-quickstart-templates) - This repo contains all the resource manager templates for Azure. It is very likely you can find the desired template here for your project.
+* [Azure Tips And Tricks](http://azuredev.tips) is a resource that helps developers become more productive with Azure. Learn some of our favorite Azure tips and tricks—some long-standing, and new ones that have recently been added to shave hours off your coding tasks tomorrow.
 
 ## Pricing
 

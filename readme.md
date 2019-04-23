@@ -279,6 +279,7 @@ Additional documentation from Microsoft will be included in the folders for the 
 * [Modern Authentication with Azure Active Directory for Web Applications](https://www.amazon.com/Authentication-Directory-Applications-Developer-Reference/dp/0735696942/ref=sr_1_28?ie=UTF8&qid=1489421472&sr=8-28&keywords=azure)
 * [DevOps with Microsoft Azure and Visual Studio Team Services](https://www.amazon.com/DevOps-Microsoft-Visual-Studio-Services-ebook/dp/B01MSQWO4W/ref=sr_1_45?ie=UTF8&qid=1489421540&sr=8-45&keywords=azure)
 * [Learn Azure in a Month of Lunches](https://www.manning.com/books/learn-azure-in-a-month-of-lunches)
+* [Azure Data Engineering](https://www.manning.com/books/azure-data-engineering)
 
 ## Communities
 * [Azure Forums](https://azure.microsoft.com/en-us/support/forums/)

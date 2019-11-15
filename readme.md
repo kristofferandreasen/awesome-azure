@@ -280,6 +280,7 @@ Additional documentation from Microsoft will be included in the folders for the 
 * [DevOps with Microsoft Azure and Visual Studio Team Services](https://www.amazon.com/DevOps-Microsoft-Visual-Studio-Services-ebook/dp/B01MSQWO4W/ref=sr_1_45?ie=UTF8&qid=1489421540&sr=8-45&keywords=azure)
 * [Learn Azure in a Month of Lunches](https://www.manning.com/books/learn-azure-in-a-month-of-lunches)
 * [Azure Data Engineering](https://www.manning.com/books/azure-data-engineering)
+* [Learn Azure in a Month of Lunches, 2nd Edition](https://www.manning.com/books/learn-azure-in-a-month-of-lunches-second-edition)
 
 ## Communities
 * [Azure Forums](https://azure.microsoft.com/en-us/support/forums/)

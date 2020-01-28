@@ -258,6 +258,9 @@ Additional documentation from Microsoft will be included in the folders for the 
 * [Azure Table Vs MongoDB on Azure](http://stackoverflow.com/questions/7989465/azure-table-vs-mongodb-on-azure)
 * [Azure Blob Storage vs. File Service](http://stackoverflow.com/questions/24880430/azure-blob-storage-vs-file-service)
 
+## Books - Free
+* [Hands-On Linux Administration on Azure](https://azure.microsoft.com/en-us/resources/hands-on-linux-administration-on-azure/)
+
 ## Books - Paid
 * [Microsoft Azure Security Infrastructure](https://blogs.msdn.microsoft.com/microsoft_press/2016/08/25/new-book-microsoft-azure-security-infrastructure/)
 * [Monitoring and Operating a Private Cloud](https://www.microsoftpressstore.com/store/exam-ref-70-246-monitoring-and-operating-a-private-9780735686175)

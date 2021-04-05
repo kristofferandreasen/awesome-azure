@@ -218,6 +218,7 @@ When you have learned all the fundamentals in Azure you can move on to the paid 
 * [CloudAcademy Blog](http://cloudacademy.com/blog/azure/)
 * [BuildAzure Blog](https://buildazure.com/)
 * [Azure Friday - Videos with Azure Engineers](https://azure.microsoft.com/en-us/resources/videos/azure-friday/)
+* [Serverless360 Blog](https://www.serverless360.com/blog)
 
 ## Podcasts
 * [Azure Friday Podcast](https://itunes.apple.com/dk/podcast/azure-friday-hd-channel-9/id739501868?mt=2)

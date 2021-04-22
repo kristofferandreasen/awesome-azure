@@ -15,6 +15,7 @@ I would recommend everone getting started with Azure to take the [Azure Fundamen
 
 ## Developer Tools
 
+* [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli) - Command-line interface providing a set of commands used to create and manage Azure resources
 * [Azure Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/) - Desktop client to easily manage Storage anywhere from Windows, MacOS, and Linux
 * [Azure Resource Explorer](https://resources.azure.com/) - Allows you to view and edit Azure resource definitions directly from their JSON manfinests; effectively bypassing the API.
 
@@ -299,6 +300,9 @@ Microsoft offers a programme that allow startups to get up to $120k of free Azur
 
 ## Cheat Sheets
 * [Azure Machine Learning Cheat Sheet](https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-algorithm-cheat-sheet)
+
+## Related Awesome Lists
+* [Awesome Azure Static Web Apps](https://github.com/staticwebdev/awesome-azure-static-web-apps)
 
 ## Contributing
 This project was created to keep a centralized place for all the resources I needed to become proficient in Azure. Feel free to suggest or add other resources that might be relevant or let me know if some of the resources are unavailable.

@@ -284,6 +284,7 @@ Additional documentation from Microsoft will be included in the folders for the 
 * [Learn Azure in a Month of Lunches](https://www.manning.com/books/learn-azure-in-a-month-of-lunches)
 * [Azure Data Engineering](https://www.manning.com/books/azure-data-engineering)
 * [Learn Azure in a Month of Lunches, 2nd Edition](https://www.manning.com/books/learn-azure-in-a-month-of-lunches-second-edition)
+* [Azure Infrastructure as Code](https://www.manning.com/books/azure-infrastructure-as-code)
 
 ## Communities
 * [Azure Forums](https://azure.microsoft.com/en-us/support/forums/)

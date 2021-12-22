@@ -177,6 +177,7 @@ These are a selection of some of the more popular PowerShell modules.
 * [Hands-On with Azure Machine Learning](https://www.youtube.com/watch?v=eUce2cB844s)
 * [Azure Machine Learning - Prediction with Regression](https://www.youtube.com/watch?v=knFLC4CKajM)
 * [Deploying Dockerized Apps to the Azure Container Service](https://www.youtube.com/watch?v=-wjxpng6jYs)
+* [ARM Templates or Azure Bicep](https://www.youtube.com/watch?v=lRlcgeBD8NQ)
 
 ## Paid Certifications
 When you have learned all the fundamentals in Azure you can move on to the paid certificates.

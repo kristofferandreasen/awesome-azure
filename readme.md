@@ -293,6 +293,9 @@ Additional documentation from Microsoft will be included in the folders for the 
 * [Azure Events - Find Events in your Area](https://azure.microsoft.com/en-us/community/events/)
 * [Azure Newsletter](https://azure.microsoft.com/en-us/community/newsletter/)
 
+## Community Tools
+* [dotnet-azure-naming](https://github.com/hlaueriksson/dotnet-azure-naming) - A .NET tool that helps with naming conventions of azure resources.
+
 ## BizSpark
 Microsoft offers a programme that allow startups to get up to $120k of free Azure cloud credits. You can read more here:
 * [BizSpark](https://bizspark.microsoft.com/)

@@ -11,7 +11,7 @@ The repo starts with a few resources to get started with Azure in general. Then 
 ## Getting Started
 Azure can be quite intimidating because of the vast amount of services and options.
 Therefore it would make sense to choose a specific learning path in order to learn how Azure can be used within the area you work in.
-I would recommend everone getting started with Azure to take the [Azure Fundamentals](https://openedx.microsoft.com/) course. This course provides a great introduction to all the various services. After this course you will have a better understanding of the Azure Ecosystem and you can dive into the specific area you are going to be working within.
+I would recommend everyone getting started with Azure to take the [Azure Fundamentals](https://openedx.microsoft.com/) course. This course provides a great introduction to all the various services. After this course you will have a better understanding of the Azure Ecosystem and you can dive into the specific area you are going to be working within.
 
 ## Developer Tools
 

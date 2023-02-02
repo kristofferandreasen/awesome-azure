@@ -177,6 +177,7 @@ These are a selection of some of the more popular PowerShell modules.
 * [Hands-On with Azure Machine Learning](https://www.youtube.com/watch?v=eUce2cB844s)
 * [Azure Machine Learning - Prediction with Regression](https://www.youtube.com/watch?v=knFLC4CKajM)
 * [Deploying Dockerized Apps to the Azure Container Service](https://www.youtube.com/watch?v=-wjxpng6jYs)
+* [ARM Templates or Azure Bicep](https://www.youtube.com/watch?v=lRlcgeBD8NQ)
 
 ## Paid Certifications
 When you have learned all the fundamentals in Azure you can move on to the paid certificates.
@@ -284,6 +285,9 @@ Additional documentation from Microsoft will be included in the folders for the 
 * [Learn Azure in a Month of Lunches](https://www.manning.com/books/learn-azure-in-a-month-of-lunches)
 * [Azure Data Engineering](https://www.manning.com/books/azure-data-engineering)
 * [Learn Azure in a Month of Lunches, 2nd Edition](https://www.manning.com/books/learn-azure-in-a-month-of-lunches-second-edition)
+* [Azure Infrastructure as Code](https://www.manning.com/books/azure-infrastructure-as-code)
+* [Genomics in Azure](https://www.manning.com/books/genomics-in-azure)
+* [Azure Security](https://www.manning.com/books/azure-security-2)
 
 ## Communities
 * [Azure Forums](https://azure.microsoft.com/en-us/support/forums/)

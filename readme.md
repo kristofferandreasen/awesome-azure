@@ -287,6 +287,7 @@ Additional documentation from Microsoft will be included in the folders for the 
 * [Learn Azure in a Month of Lunches, 2nd Edition](https://www.manning.com/books/learn-azure-in-a-month-of-lunches-second-edition)
 * [Azure Infrastructure as Code](https://www.manning.com/books/azure-infrastructure-as-code)
 * [Genomics in Azure](https://www.manning.com/books/genomics-in-azure)
+* [Azure Security](https://www.manning.com/books/azure-security-2)
 
 ## Communities
 * [Azure Forums](https://azure.microsoft.com/en-us/support/forums/)
